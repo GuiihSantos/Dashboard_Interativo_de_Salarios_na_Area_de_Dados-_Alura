@@ -36,3 +36,8 @@ plotly==5.24.1
 ```
 pip install -r requirements.txt
 ```
+
+---
+
+<img src="img/grafico1_2.png" alt="Gráfico 1 e 2" width="60%">
+<img src="img/grafico3_4.png" alt="Gráfico 4 e 4" width="60%">
